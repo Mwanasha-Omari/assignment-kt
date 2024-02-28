@@ -1,4 +1,10 @@
 fun main() {
+salutation("Ali")
+var result=("reminder")
+
+
+
+
 
 var y =result(23,31,5,4)
 println()
